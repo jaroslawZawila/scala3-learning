@@ -22,7 +22,7 @@ extension (i: Int)
   def show(): String = s"The number is $i.\n"
 
 //enum
-enum Color:
+enum Colors:
   case Red, Blue, Green
 
 
@@ -35,7 +35,7 @@ inline def regularInline(x: Any): Any = x
 transparent inline def transparentInline(x: Any): Any = x
 
 val a: Any = regularInline(42)        // a is of type Any
-val b: Int = regularInline(42)        // Compilation error: Found: (a : Any), Required: Int
+//val b: Int = regularInline(42)        // Compilation error: Found: (a : Any), Required: Int
 
 val c: Any = transparentInline(42)    // c is of type Any
 val d: Int = transparentInline(42)    // d is of type Int, no error
