@@ -5,7 +5,7 @@
 | Day 1  | Install Scala 3 and set up the development environment                          | [ x ]     |
 | Day 2  | Explore Scala 3 syntax changes (new soft keywords)                              | [ x ]     |
 | Day 3  | Learn about enums and ADTs (Algebraic Data Types)                               | [ x ]     |
-| Day 4  | Deep dive into opaque types                                                     | [ ]       |
+| Day 4  | Deep dive into opaque types                                                     | [ x ]     |
 | Day 5  | Explore top-level definitions and compare to Scala 2                            | [ ]       |
 | Day 6  | Learn about union and intersection types                                        | [ ]       |
 | Day 7  | Investigate the new match types                                                 | [ ]       |

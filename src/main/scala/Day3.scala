@@ -18,7 +18,7 @@ enum DayOfWeek:
     case _ => false
 
 // Parameterized enum (with type parameter)
-enum Option[+T]:
+enum Optionn[+T]:
   case Some(value: T)
   case None
 
@@ -48,8 +48,8 @@ enum Shape:
   println(s"Is $day weekend? ${day.isWeekend}")
 
   // Using parameterized enum
-  val someNumber = Option.Some(42)
-  val noValue = Option.None
+  val someNumber = Optionn.Some(42)
+  val noValue = Optionn.None
 
   // Using ADT
   val circle = Shape.Circle(5.0)
