@@ -6,8 +6,8 @@
 | Day 2  | Explore Scala 3 syntax changes (new soft keywords)                              | [ x ]     |
 | Day 3  | Learn about enums and ADTs (Algebraic Data Types)                               | [ x ]     |
 | Day 4  | Deep dive into opaque types                                                     | [ x ]     |
-| Day 5  | Explore top-level definitions and compare to Scala 2                            | [ ]       |
-| Day 6  | Learn about union and intersection types                                        | [ ]       |
+| Day 5  | Explore top-level definitions and compare to Scala 2                            | [ x ]     |
+| Day 6  | Learn about union and intersection types                                        | [ x ]     |
 | Day 7  | Investigate the new match types                                                 | [ ]       |
 | Day 8  | Hands-on with extension methods and using clauses                               | [ ]       |
 | Day 9  | Review the new `given` and `using` for context parameters                       | [ ]       |
